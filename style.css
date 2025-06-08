@@ -11,8 +11,8 @@ html {
 
 /* Card container */
 .card {
-  width: 35em;
-  height: 22em;
+  width: 50em;
+  height: 30em;
   margin: 5em auto;
   background-color: sienna;
   border: 0.2em solid black;
